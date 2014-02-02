@@ -121,11 +121,12 @@ select {
 ---------------------------------------------------------------- */
 .sectionHeader {
 	margin: 0 10px 4px;
-   padding: 5px 3px 5px 18px;
+   	padding: 5px 3px 5px 18px;
 	font-weight: bold;
 	color: #000;
 	border-top: 1px solid #c5db88;
 	margin-top:-10px;
+	min-height: 16px;
 }
 
 .sectionBody {
